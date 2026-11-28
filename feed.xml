@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>La Matinale du Nautilus</title>
+  <link>https://bnbfbfcxhj-hash.github.io/matinale-nautilus/</link>
+  <atom:link href="https://bnbfbfcxhj-hash.github.io/matinale-nautilus/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>fr</language>
+  <description>Chaque matin, Jules et le capitaine Nemo font le tour de ce qui compte : le monde, la France, les marchés, la tech, le sport, une rubrique pour apprendre quelque chose et un texte à méditer. Podcast privé, voix de synthèse.</description>
+  <itunes:summary>Chaque matin, Jules et le capitaine Nemo font le tour de ce qui compte : le monde, la France, les marchés, la tech, le sport, une rubrique pour apprendre quelque chose et un texte à méditer. Podcast privé, voix de synthèse.</itunes:summary>
+  <itunes:author>La Matinale du Nautilus</itunes:author>
+  <itunes:owner><itunes:name>La Matinale du Nautilus</itunes:name></itunes:owner>
+  <itunes:image href="https://bnbfbfcxhj-hash.github.io/matinale-nautilus/cover.jpg"/>
+  <image><url>https://bnbfbfcxhj-hash.github.io/matinale-nautilus/cover.jpg</url><title>La Matinale du Nautilus</title><link>https://bnbfbfcxhj-hash.github.io/matinale-nautilus/</link></image>
+  <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:block>yes</itunes:block>
+  <lastBuildDate>Sat, 28 Nov 2026 05:44:47 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 28 novembre 2026 : S&amp;P menace de dégrader la note de la France</title>
+   <description>Sujet du jour : l'agence Standard and Poor's maintient la note de la France à A+ mais passe sa perspective à négative, le jour où l'Insee confirme la récession. Point bourse : la meilleure semaine de Wall Street depuis avril 2025, l'agenda de la semaine et trois thèses à suivre (Fed, pétrole, financement de l'IA). Clôture : Coran, sourate At-Talaq, versets 2 et 3, sur la crainte d'Allah et la confiance en Lui.</description>
+   <itunes:summary>Sujet du jour : l'agence Standard and Poor's maintient la note de la France à A+ mais passe sa perspective à négative, le jour où l'Insee confirme la récession. Point bourse : la meilleure semaine de Wall Street depuis avril 2025, l'agenda de la semaine et trois thèses à suivre (Fed, pétrole, financement de l'IA). Clôture : Coran, sourate At-Talaq, versets 2 et 3, sur la crainte d'Allah et la confiance en Lui.</itunes:summary>
+   <guid isPermaLink="false">matinale-nautilus-La-Matinale-du-Nautilus-2026-11-28.mp3</guid>
+   <pubDate>Sat, 28 Nov 2026 06:00:00 +0000</pubDate>
+   <enclosure url="https://bnbfbfcxhj-hash.github.io/matinale-nautilus/episodes/La-Matinale-du-Nautilus-2026-11-28.mp3" length="17329581" type="audio/mpeg"/>
+   <itunes:duration>00:24:04</itunes:duration>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+   <title>Bande-annonce</title>
+   <description>Jules et le capitaine Nemo présentent La Matinale du Nautilus.</description>
+   <itunes:summary>Jules et le capitaine Nemo présentent La Matinale du Nautilus.</itunes:summary>
+   <guid isPermaLink="false">matinale-nautilus-La-Matinale-du-Nautilus-bande-annonce.mp3</guid>
+   <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+   <enclosure url="https://bnbfbfcxhj-hash.github.io/matinale-nautilus/episodes/La-Matinale-du-Nautilus-bande-annonce.mp3" length="497133" type="audio/mpeg"/>
+   <itunes:duration>00:00:41</itunes:duration>
+   <itunes:episodeType>trailer</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>
